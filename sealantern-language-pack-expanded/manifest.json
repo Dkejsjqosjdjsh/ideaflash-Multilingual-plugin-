@@ -1,0 +1,36 @@
+{
+  "id": "sealantern-language-pack-expanded",
+  "name": "Sea Lantern Expanded Language Pack",
+  "version": "1.0.0",
+  "description": "Comprehensive language support with 233+ languages for Sea Lantern",
+  "author": {
+    "name": "發燈條",
+    "url": "https://github.com/Dkejsjqosjdjsh"
+  },
+  "repository": "https://github.com/Dkejsjqosjdjsh/sealantern-language-pack-expanded",
+  "main": "index.js",
+  "permissions": [],
+  "locales": {
+    "en-US": {
+      "name": "Sea Lantern Expanded Language Pack",
+      "description": "Comprehensive language support with 233+ languages including ISO 639 standard languages, regional variants, ancient languages, minority languages, and special encodings"
+    },
+    "zh-CN": {
+      "name": "海灯扩展语言包",
+      "description": "包含 233+ 种语言的全面语言支持，包括 ISO 639 标准语言、地区变体、古代语言、少数民族语言和特殊编码"
+    },
+    "zh-TW": {
+      "name": "海燈擴展語言包",
+      "description": "包含 233+ 種語言的全面語言支持，包括 ISO 639 標準語言、地區變體、古代語言、少數民族語言和特殊編碼"
+    }
+  },
+  "keywords": [
+    "language",
+    "i18n",
+    "internationalization",
+    "translation",
+    "multilingual"
+  ],
+  "category": "language",
+  "icon": "🌍"
+}

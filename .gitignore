@@ -1,0 +1,26 @@
+# 忽略所有文件和文件夾
+*
+*/*
+
+# 只保留插件和文檔
+!.gitignore
+!README.md
+!QUICK_START.md
+!INSTALL.md
+
+# 插件目錄
+!sealantern-language-pack-expanded/
+!sealantern-language-pack-expanded/**
+
+# ZIP 分發包
+!sealantern-language-pack-expanded-1.0.0.zip
+
+# 忽略所有 Python 文件
+*.py
+
+# 忽略所有其他文件
+*.log
+.DS_Store
+Thumbs.db
+.venv/
+__pycache__/
