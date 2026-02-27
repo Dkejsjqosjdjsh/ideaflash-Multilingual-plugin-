@@ -8,7 +8,7 @@
     "url": "https://github.com/Dkejsjqosjdjsh"
   },
   "repository": "https://github.com/Dkejsjqosjdjsh/sealantern-language-pack-expanded",
-  "main": "index.js",
+  "main": "main.lua",
   "permissions": [],
   "locales": {
     "en-US": {
