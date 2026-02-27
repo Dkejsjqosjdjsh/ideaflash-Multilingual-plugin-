@@ -4,7 +4,8 @@
 
 local plugin = {}
 
-local LANGUAGES_DIR = "languages"
+-- Use absolute path from PLUGIN_DIR global variable provided by Sea Lantern
+local LANGUAGES_DIR = PLUGIN_DIR .. "/languages"
 local ELEMENT_ID = "sea-lantern-language-pack"
 
 -- All 233+ supported languages
